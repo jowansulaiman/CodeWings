@@ -112,9 +112,9 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void onTap(newIndex) {
-      setState(() {
-        currentIndex = newIndex;
-      });
+    setState(() {
+      currentIndex = newIndex;
+    });
   }
 
   IndexedStack buildBody() {
