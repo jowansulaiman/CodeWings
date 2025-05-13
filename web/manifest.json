@@ -1,11 +1,11 @@
 {
-    "name": "flutter_todo_list",
-    "short_name": "flutter_todo_list",
+    "name": "code_wings",
+    "short_name": "code_wings",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "ist ein Lernprojekt, das Studierenden den Einstieg in **Flutter** erleichtert ? Schritt f?r Schritt, projektbasiert und offen dokumentiert auf GitHub.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
