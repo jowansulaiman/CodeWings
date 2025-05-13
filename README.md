@@ -18,13 +18,14 @@
 
 ## 🚧 Aktueller Fortschritt
 
-| Thema                     | Status      |
-|--------------------------|-------------|
-| Einführung in Flutter    | ✅ Abgeschlossen |
-| Widgets & Layouts        | ✅ Abgeschlossen |
-| ListView & Builder       | 🔄 In Arbeit |
+| Thema                                 | Status      |
+|---------------------------------------|-------------|
+| Dart                                  | ✅ Abgeschlossen |
+| Einführung in Flutter                 | ✅ Abgeschlossen |
+| Widgets & Layouts                     | ✅ Abgeschlossen |
+| ListView & Builder                    | 🔄 In Arbeit |
 | State Management (setState, Provider) | ⏳ Geplant |
-| Netzwerk & API-Zugriff   | ⏳ Geplant |
+| Netzwerk & API-Zugriff                | ⏳ Geplant |
 
 ## 🧠 Für wen ist CodeWings gedacht?
 
