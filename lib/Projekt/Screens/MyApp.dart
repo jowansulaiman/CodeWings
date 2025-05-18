@@ -1,9 +1,7 @@
 
+import 'package:code_wings/Projekt/Screens/ShoopingItemScreen.dart';
 import 'package:flutter/material.dart';
-import 'Screens/BlackScreen.dart';
-import 'Screens/GitterScreen.dart';
-import 'Screens/GreenScreen.dart';
-import 'Screens/N1.dart';
+
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -11,11 +9,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+
       title: 'Flutter Demo',
       theme: ThemeData(
-              colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: Navigatorpage(),
+      home: Shoopingitemscreen(),
     );
   }
 }
